@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Secure Data Handling</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🔐 Secure Data Handling</h1>
+        <form method="post">
+            <textarea name="message" placeholder="Enter your message here..." required></textarea>
+            <div class="buttons">
+                <button type="submit" name="action" value="storage">Secure Storage</button>
+                <button type="submit" name="action" value="transmission">Secure Transmission</button>
+                <button type="submit" name="action" value="signature">Digital Signature</button>
+            </div>
+        </form>
+        {% if result %}
+            <div class="result">
+                <h2>Result</h2>
+                <p>{{ result|safe }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
