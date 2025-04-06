@@ -26,6 +26,8 @@ A stylish front-end where users can:
 ### 📄 Output Example
 
 
+[!Watch it here}(https://github.com/user-attachments/assets/b7af42f6-a5b1-4e5f-8a3f-eae6299056b6)]
+
 ---
 
 ## 🧪 How It Works
@@ -37,12 +39,7 @@ A stylish front-end where users can:
 
 ---
 
-## 🛠️ How to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/secure-data-handling.git
-   cd secure-data-handling
 
 ## 📚 References
 
