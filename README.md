@@ -26,7 +26,7 @@ A stylish front-end where users can:
 ### 📄 Output Example
 
 
-[!Watch it here](https://github.com/user-attachments/assets/b7af42f6-a5b1-4e5f-8a3f-eae6299056b6)]
+[Click on this to Watch Demo Video(https://github.com/user-attachments/assets/b7af42f6-a5b1-4e5f-8a3f-eae6299056b6)]
 
 ---
 
